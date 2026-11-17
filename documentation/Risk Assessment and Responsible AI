@@ -1,0 +1,21 @@
+# Risk Assessment and Responsible AI
+
+| Risk | Mitigation |
+|---|---|
+| Incorrect AI classification | Human verification |
+| Incorrect expiry extraction | Validate against original document |
+| Missing information | Completeness checks |
+| Sensitive data exposure | Secure storage and access controls |
+| Over-reliance on AI | User training and human decision authority |
+| Incorrect compliance decision | AI must not independently approve documents |
+
+## Governance Principles
+
+1. Human accountability.
+2. Transparency of AI-generated suggestions.
+3. Data minimization.
+4. Access control.
+5. Auditability.
+6. Continuous monitoring.
+
+All compliance and safety decisions remain with authorized personnel.
