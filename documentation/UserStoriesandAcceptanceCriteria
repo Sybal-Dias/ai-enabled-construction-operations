@@ -1,0 +1,33 @@
+# User Stories and Acceptance Criteria
+
+### US01 — Document Intake
+As a procurement coordinator, I want documents to be captured in a standardized format so that submissions can be tracked consistently.
+
+Acceptance criteria:
+- Each submission has a unique ID.
+- Department and document type are recorded.
+- Received date is captured.
+
+### US02 — Missing Information
+As a coordinator, I want incomplete documents flagged so that I can follow up.
+
+Acceptance criteria:
+- Missing fields are identified.
+- The document is marked incomplete.
+- The record appears in the exception view.
+
+### US03 — AI Classification
+As an administrative user, I want AI to suggest document categories so that manual classification effort can be reduced.
+
+Acceptance criteria:
+- AI displays its suggested classification.
+- Uncertain results require human review.
+- AI cannot independently approve documents.
+
+### US04 — Management Reporting
+As a manager, I want a dashboard showing document status so that I can monitor workload and outstanding items.
+
+Acceptance criteria:
+- Status counts are displayed.
+- Department filters work.
+- Outstanding documents are identifiable.
