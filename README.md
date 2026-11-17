@@ -15,6 +15,39 @@ The project focuses on identifying administrative bottlenecks, designing improve
 **Dataset:** 60 synthetic records  
 **Tools:** Tableau, Excel/CSV, Generative AI, Business Process Analysis  
 **Industry:** Construction operations (simulated scenario)
+**Project structure:**
+ai-enabled-construction-operations/
+│
+├── README.md
+│
+├── data/
+│   └── synthetic_document_tracker.csv
+│
+├── dashboard/
+│   ├── tableau_dashboard.twbx
+│   ├── dashboard_overview.png
+│   └── dashboard_details.png
+│
+├── documentation/
+│   ├── 01_business_case.md
+│   ├── 02_stakeholder_analysis.md
+│   ├── 03_as_is_process.md
+│   ├── 04_to_be_process.md
+│   ├── 05_business_requirements.md
+│   ├── 06_user_stories_acceptance_criteria.md
+│   ├── 07_risk_and_ai_governance.md
+│   ├── 08_uat_test_cases.md
+│   └── 09_change_management.md
+│
+├── ai-prototype/
+│   ├── classification_prompt.md
+│   └── sample_ai_output.md
+│
+├── process-maps/
+│   ├── as_is_workflow.png
+│   └── to_be_workflow.png
+│
+└── LICENSE
 
 ## 2. Business Problem
 
