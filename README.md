@@ -1,6 +1,5 @@
-# ai-enabled-construction-operations
-# AI-Enabled Construction Operations Workflow
 
+# AI-Enabled Construction Operations Workflow
 ### Subcontractor Document Intake, Classification & Approval Tracking
 
 **Independent Portfolio Project | Business Analysis | AI Enablement | Tableau | Process Improvement**
@@ -15,39 +14,8 @@ The project focuses on identifying administrative bottlenecks, designing improve
 **Dataset:** 60 synthetic records  
 **Tools:** Tableau, Excel/CSV, Generative AI, Business Process Analysis  
 **Industry:** Construction operations (simulated scenario)
-**Project structure:**
-ai-enabled-construction-operations/
-│
-├── README.md
-│
-├── data/
-│   └── synthetic_document_tracker.csv
-│
-├── dashboard/
-│   ├── tableau_dashboard.twbx
-│   ├── dashboard_overview.png
-│   └── dashboard_details.png
-│
-├── documentation/
-│   ├── 01_business_case.md
-│   ├── 02_stakeholder_analysis.md
-│   ├── 03_as_is_process.md
-│   ├── 04_to_be_process.md
-│   ├── 05_business_requirements.md
-│   ├── 06_user_stories_acceptance_criteria.md
-│   ├── 07_risk_and_ai_governance.md
-│   ├── 08_uat_test_cases.md
-│   └── 09_change_management.md
-│
-├── ai-prototype/
-│   ├── classification_prompt.md
-│   └── sample_ai_output.md
-│
-├── process-maps/
-│   ├── as_is_workflow.png
-│   └── to_be_workflow.png
-│
-└── LICENSE
+**Project Folder Structure:**
+<img width="531" height="755" alt="image" src="https://github.com/user-attachments/assets/7e2a84c0-f0f4-4d12-a11d-dabc44f2d7d7" />
 
 ## 2. Business Problem
 
@@ -72,42 +40,9 @@ The objective is to propose a more structured and measurable document-management
 4. Retain human oversight for exceptions and approval decisions.
 5. Improve operational visibility through Tableau.
 6. Translate business needs into requirements and acceptance criteria.
-
-## 4. Proposed Solution
-
-The proposed workflow consists of:
-
-1. Standardized document submission.
-2. AI-assisted document classification and information extraction.
-3. Completeness and date validation.
-4. Exception identification.
-5. Human review and authorization.
-6. Centralized document tracking.
-7. Tableau operational reporting.
-
 AI is used as an administrative assistant, not as an independent compliance or safety decision-maker.
 
-## 5. Business Process Analysis
-
-### AS-IS Process
-
-Subcontractor submits documents by email → Manual classification → Manual completeness checks → Follow-up for missing information → Approval routing → Spreadsheet updates → Management reporting.
-
-### TO-BE Process
-
-Standardized intake → AI-assisted classification → Automated completeness checks → Human review of exceptions → Central tracking → Operational dashboard.
-
 ## 6. Tableau Dashboard
-
-The dashboard provides an overview of:
-
-- Total document volume.
-- Approved documents.
-- Outstanding documents.
-- Incomplete submissions.
-- Departmental workload.
-- Document type distribution.
-- Follow-up and risk monitoring.
  ![Subcontractor Document Operations Dashboard](dashboard/dashboard_overview.png)
 
 ### Key Performance Indicators
@@ -126,7 +61,6 @@ All results are based on synthetic demonstration data.
 ## 7. AI Enablement
 
 An AI-assisted document classification prompt was designed to extract:
-
 - Document type.
 - Subcontractor information.
 - Issue and expiry dates.
