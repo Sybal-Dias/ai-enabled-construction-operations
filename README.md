@@ -14,8 +14,7 @@ The project focuses on identifying administrative bottlenecks, designing improve
 **Dataset:** 60 synthetic records  
 **Tools:** Tableau, Excel/CSV, Generative AI, Business Process Analysis  
 **Industry:** Construction operations (simulated scenario)
-**Project Folder Structure:**
-<img width="531" height="755" alt="image" src="https://github.com/user-attachments/assets/7e2a84c0-f0f4-4d12-a11d-dabc44f2d7d7" />
+
 
 ## Business Problem
 
