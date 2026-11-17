@@ -1,0 +1,23 @@
+{
+  "document_type": "Insurance Certificate",
+  "subcontractor": "ABC Civil Contractors",
+  "document_id": "POL-2026-001",
+  "issue_date": "2026-09-01",
+  "expiry_date": "2026-10-31",
+  "received_date": "2026-11-15",
+  "missing_fields": [
+    "Insurance company name",
+    "Policy coverage details",
+    "Coverage amount",
+    "Named insured details",
+    "Certificate issuer"
+  ],
+  "potential_inconsistencies": [
+    "Expiry date precedes document received date"
+  ],
+  "suggested_department": "Procurement / Insurance Review",
+  "human_review_required": true,
+  "reason": "The stated expiry date precedes the received date. Additional insurance information is not present in the supplied sample.",
+  "approval_status": "Not assessed",
+  "compliance_status": "Not assessed"
+}
