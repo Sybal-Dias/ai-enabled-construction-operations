@@ -1,0 +1,61 @@
+Document_ID,Subcontractor,Department,Document_Type,Date_Received,Status,Completeness,Processing_Days,Approval_Date,Risk_Level,AI_Classification,Human_Review_Required,Follow_Up_Required,Estimated_Manual_Minutes
+DOC-001,Subcontractor 01,Procurement,Insurance Certificate,2026-11-01,Missing Information,Incomplete,4,,High,Needs Human Review,Yes,Yes,10
+DOC-002,Subcontractor 02,Procurement,Purchase Order,2026-10-20,Approved,Complete,1,2026-10-21,Low,Likely Correct,No,No,8
+DOC-003,Subcontractor 03,HSE,Safety Training Record,2026-11-15,Pending Review,Complete,9,,Medium,Likely Correct,Yes,No,10
+DOC-004,Subcontractor 04,Field Operations,WCB Clearance,2026-10-10,Approved,Complete,1,2026-10-11,Low,Likely Correct,No,No,10
+DOC-005,Subcontractor 05,Finance,Business Licence,2026-11-03,Approved,Complete,1,2026-11-04,Low,Likely Correct,No,No,8
+DOC-006,Subcontractor 06,Finance,Insurance Certificate,2026-10-25,Approved,Complete,3,2026-10-28,Low,Likely Correct,No,No,8
+DOC-007,Subcontractor 07,Finance,Purchase Order,2026-10-23,Approved,Complete,5,2026-10-28,Low,Likely Correct,No,No,12
+DOC-008,Subcontractor 08,Field Operations,Business Licence,2026-10-02,Pending Review,Complete,2,,Medium,Likely Correct,Yes,No,8
+DOC-009,Subcontractor 09,HSE,Business Licence,2026-11-02,Rejected,Incomplete,11,,Low,Needs Human Review,Yes,Yes,12
+DOC-010,Subcontractor 10,Finance,Business Licence,2026-10-25,Approved,Complete,3,2026-10-28,Low,Likely Correct,No,No,20
+DOC-011,Subcontractor 11,Procurement,Purchase Order,2026-10-13,Pending Review,Complete,12,,Medium,Likely Correct,Yes,No,10
+DOC-012,Subcontractor 12,HSE,WCB Clearance,2026-10-07,Approved,Complete,5,2026-10-12,Low,Likely Correct,No,No,10
+DOC-013,Subcontractor 13,Project Controls,Insurance Certificate,2026-11-14,Approved,Complete,4,2026-11-18,Low,Likely Correct,No,No,12
+DOC-014,Subcontractor 14,Procurement,Safety Training Record,2026-10-11,Rejected,Incomplete,10,,High,Needs Human Review,Yes,Yes,10
+DOC-015,Subcontractor 15,Finance,WCB Clearance,2026-10-06,Missing Information,Incomplete,8,,High,Needs Human Review,Yes,Yes,10
+DOC-016,Subcontractor 16,Project Controls,Safety Training Record,2026-10-12,Approved,Complete,3,2026-10-15,Low,Likely Correct,No,No,20
+DOC-017,Subcontractor 17,Field Operations,WCB Clearance,2026-10-22,Missing Information,Incomplete,6,,High,Needs Human Review,Yes,Yes,10
+DOC-018,Subcontractor 18,HSE,Purchase Order,2026-11-13,Pending Review,Complete,2,,Medium,Likely Correct,Yes,No,10
+DOC-019,Subcontractor 01,HSE,WCB Clearance,2026-10-23,Pending Review,Complete,7,,Medium,Likely Correct,Yes,No,18
+DOC-020,Subcontractor 02,Finance,Purchase Order,2026-10-12,Approved,Complete,1,2026-10-13,Low,Likely Correct,No,No,20
+DOC-021,Subcontractor 03,Field Operations,Business Licence,2026-10-26,Missing Information,Incomplete,2,,Low,Needs Human Review,Yes,Yes,12
+DOC-022,Subcontractor 04,Finance,Safety Training Record,2026-10-31,Pending Review,Complete,9,,Medium,Likely Correct,Yes,No,10
+DOC-023,Subcontractor 05,Field Operations,Insurance Certificate,2026-10-28,Missing Information,Incomplete,11,,High,Needs Human Review,Yes,Yes,18
+DOC-024,Subcontractor 06,Field Operations,Safety Training Record,2026-11-06,Approved,Complete,5,2026-11-11,Low,Likely Correct,No,No,8
+DOC-025,Subcontractor 07,Field Operations,Business Licence,2026-11-09,Pending Review,Complete,6,,Medium,Likely Correct,Yes,No,12
+DOC-026,Subcontractor 08,HSE,Insurance Certificate,2026-10-11,Approved,Complete,1,2026-10-12,Low,Likely Correct,No,No,20
+DOC-027,Subcontractor 09,Finance,Insurance Certificate,2026-10-13,Rejected,Incomplete,7,,High,Needs Human Review,Yes,Yes,20
+DOC-028,Subcontractor 10,Finance,Purchase Order,2026-10-14,Approved,Complete,4,2026-10-18,Low,Likely Correct,No,No,10
+DOC-029,Subcontractor 11,Field Operations,Safety Training Record,2026-10-22,Missing Information,Incomplete,11,,High,Needs Human Review,Yes,Yes,20
+DOC-030,Subcontractor 12,Project Controls,WCB Clearance,2026-10-19,Missing Information,Incomplete,2,,High,Needs Human Review,Yes,Yes,10
+DOC-031,Subcontractor 13,HSE,Insurance Certificate,2026-10-10,Approved,Complete,2,2026-10-12,Low,Likely Correct,No,No,18
+DOC-032,Subcontractor 14,HSE,Insurance Certificate,2026-10-07,Approved,Complete,2,2026-10-09,Low,Likely Correct,No,No,8
+DOC-033,Subcontractor 15,Procurement,Business Licence,2026-11-01,Approved,Complete,4,2026-11-05,Low,Likely Correct,No,No,10
+DOC-034,Subcontractor 16,Field Operations,Safety Training Record,2026-10-11,Missing Information,Incomplete,10,,High,Needs Human Review,Yes,Yes,15
+DOC-035,Subcontractor 17,HSE,WCB Clearance,2026-11-04,Missing Information,Incomplete,2,,High,Needs Human Review,Yes,Yes,8
+DOC-036,Subcontractor 18,Finance,Business Licence,2026-10-18,Pending Review,Complete,12,,Medium,Likely Correct,Yes,No,8
+DOC-037,Subcontractor 01,Procurement,Insurance Certificate,2026-10-26,Approved,Complete,2,2026-10-28,Low,Likely Correct,No,No,10
+DOC-038,Subcontractor 02,HSE,Purchase Order,2026-10-20,Pending Review,Complete,3,,Medium,Likely Correct,Yes,No,12
+DOC-039,Subcontractor 03,Finance,Safety Training Record,2026-11-12,Missing Information,Incomplete,8,,High,Needs Human Review,Yes,Yes,18
+DOC-040,Subcontractor 04,Procurement,Insurance Certificate,2026-10-13,Pending Review,Complete,1,,Medium,Likely Correct,Yes,No,8
+DOC-041,Subcontractor 05,HSE,Safety Training Record,2026-10-17,Approved,Complete,4,2026-10-21,Low,Likely Correct,No,No,8
+DOC-042,Subcontractor 06,HSE,WCB Clearance,2026-10-23,Approved,Complete,4,2026-10-27,Low,Likely Correct,No,No,12
+DOC-043,Subcontractor 07,Finance,Purchase Order,2026-10-16,Pending Review,Complete,3,,Medium,Likely Correct,Yes,No,10
+DOC-044,Subcontractor 08,Project Controls,Safety Training Record,2026-10-10,Rejected,Incomplete,5,,High,Needs Human Review,Yes,Yes,20
+DOC-045,Subcontractor 09,Project Controls,Insurance Certificate,2026-10-17,Approved,Complete,5,2026-10-22,Low,Likely Correct,No,No,10
+DOC-046,Subcontractor 10,Procurement,Purchase Order,2026-11-05,Approved,Complete,5,2026-11-10,Low,Likely Correct,No,No,8
+DOC-047,Subcontractor 11,HSE,WCB Clearance,2026-10-11,Approved,Complete,5,2026-10-16,Low,Likely Correct,No,No,18
+DOC-048,Subcontractor 12,Procurement,Purchase Order,2026-10-05,Approved,Complete,5,2026-10-10,Low,Likely Correct,No,No,18
+DOC-049,Subcontractor 13,Project Controls,Business Licence,2026-10-02,Approved,Complete,2,2026-10-04,Low,Likely Correct,No,No,12
+DOC-050,Subcontractor 14,Finance,Safety Training Record,2026-10-28,Pending Review,Complete,8,,Medium,Likely Correct,Yes,No,12
+DOC-051,Subcontractor 15,Procurement,Insurance Certificate,2026-10-11,Pending Review,Complete,2,,Medium,Likely Correct,Yes,No,8
+DOC-052,Subcontractor 16,Field Operations,Safety Training Record,2026-11-08,Pending Review,Complete,6,,Medium,Likely Correct,Yes,No,8
+DOC-053,Subcontractor 17,HSE,Business Licence,2026-10-19,Approved,Complete,3,2026-10-22,Low,Likely Correct,No,No,18
+DOC-054,Subcontractor 18,Field Operations,Insurance Certificate,2026-10-12,Pending Review,Complete,5,,Medium,Likely Correct,Yes,No,20
+DOC-055,Subcontractor 01,Procurement,Safety Training Record,2026-11-10,Approved,Complete,5,2026-11-15,Low,Likely Correct,No,No,10
+DOC-056,Subcontractor 02,Project Controls,Business Licence,2026-10-02,Pending Review,Complete,6,,Medium,Likely Correct,Yes,No,10
+DOC-057,Subcontractor 03,Project Controls,Purchase Order,2026-11-13,Pending Review,Complete,2,,Medium,Likely Correct,Yes,No,20
+DOC-058,Subcontractor 04,Finance,Business Licence,2026-10-26,Approved,Complete,3,2026-10-29,Low,Likely Correct,No,No,10
+DOC-059,Subcontractor 05,Finance,Purchase Order,2026-10-12,Missing Information,Incomplete,1,,Low,Needs Human Review,Yes,Yes,8
+DOC-060,Subcontractor 06,Procurement,Safety Training Record,2026-10-24,Pending Review,Complete,10,,Medium,Likely Correct,Yes,No,18
