@@ -8,8 +8,6 @@
 
 This project demonstrates how AI-assisted document processing, business process redesign and operational analytics could improve subcontractor document intake and approval tracking in a hypothetical construction organization.
 
-The project focuses on identifying administrative bottlenecks, designing improved workflows, introducing human-supervised AI assistance and developing a Tableau dashboard for operational monitoring.
-
 **Project status:** Independent portfolio prototype  
 **Dataset:** 60 synthetic records  
 **Tools:** Tableau, Excel/CSV, Generative AI, Business Process Analysis  
@@ -32,14 +30,7 @@ This can result in:
 The objective is to propose a more structured and measurable document-management workflow.
 
 ## Project Objectives
-
-1. Standardize document intake and tracking.
-2. Identify incomplete submissions.
-3. Introduce AI-assisted document classification.
-4. Retain human oversight for exceptions and approval decisions.
-5. Improve operational visibility through Tableau.
-6. Translate business needs into requirements and acceptance criteria.
-AI is used as an administrative assistant, not as an independent compliance or safety decision-maker.
+-  Design a structured, AI-assisted workflow to improve document classification, exception identification and approval tracking while retaining human oversight.
 
 ## Tableau Dashboard
  ![Subcontractor Document Operations Dashboard](dashboard/dashboard_overview.png)
@@ -57,30 +48,24 @@ AI is used as an administrative assistant, not as an independent compliance or s
 
 All results are based on synthetic demonstration data.
 
-## AI Enablement
+## AI Assistaed Document Processing
 
-An AI-assisted document classification prompt was designed to extract:
-- Document type.
-- Subcontractor information.
-- Issue and expiry dates.
-- Missing fields.
-- Potential inconsistencies.
-- Suggested review department.
-- Human-review requirements.
+Designed a structured AI prompt to extract:
 
-The AI prototype uses a human-in-the-loop approach. All compliance-sensitive decisions remain with authorized personnel.
+-Subcontractor and document details.
+-Issue and expiry dates.
+-Missing information and inconsistencies.
+-Suggested review departments.
+-Human-review requirements.
+
+AI supports administrative processing; compliance and approval decisions remain with authorized personnel.
 
 ## Business Analysis Deliverables
 
-- Business problem statement.
-- Stakeholder analysis.
-- AS-IS and TO-BE process descriptions.
-- Business requirements.
-- User stories.
-- Acceptance criteria.
-- Risk assessment.
-- User acceptance testing scenarios.
-- Change management and training plan.
+- AS-IS and TO-BE workflow design.
+- Stakeholder analysis and business requirements.
+- User stories, acceptance criteria and UAT scenarios.
+- Risk assessment and change management plan.
 
 ## Business Value
 
@@ -93,7 +78,6 @@ The proposed solution aims to improve:
 - Management reporting.
 - Responsible AI adoption.
 
-Actual time savings and operational improvements have not been measured. A real implementation would require a baseline, pilot testing and validated performance data.
 
 ## Technology and Skills Demonstrated
 
@@ -111,7 +95,7 @@ Actual time savings and operational improvements have not been measured. A real 
 
 This is a time-boxed independent portfolio prototype. It does not represent a production implementation.
 
-Future enhancements could include:
+##Future enhancements could include:
 
 - Microsoft Power Automate integration.
 - SharePoint document management.
