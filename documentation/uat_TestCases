@@ -1,0 +1,13 @@
+# User Acceptance Testing
+
+| Test ID | Scenario | Expected Result |
+|---|---|---|
+| UAT01 | Complete document submitted | Complete status |
+| UAT02 | Required information missing | Incomplete status |
+| UAT03 | Uncertain AI classification | Human review required |
+| UAT04 | Department filter applied | Dashboard updates |
+| UAT05 | Status filter applied | Relevant records displayed |
+| UAT06 | Open-document KPI checked | All non-approved records counted |
+| UAT07 | Approved processing time calculated | Only approved records included |
+
+These are proposed test cases. Record actual test results before claiming successful execution.
