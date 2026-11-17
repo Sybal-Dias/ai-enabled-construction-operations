@@ -75,6 +75,7 @@ The dashboard provides an overview of:
 - Departmental workload.
 - Document type distribution.
 - Follow-up and risk monitoring.
+- ![Subcontractor Document Operations Dashboard](dashboard/dashboard_overview.png)
 
 ### Key Performance Indicators
 
