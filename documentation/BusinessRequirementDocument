@@ -1,0 +1,25 @@
+# Business Requirements Document
+
+## Business Objective
+Develop a proposed AI-assisted subcontractor document intake and tracking workflow.
+
+## Functional Requirements
+
+| ID | Requirement |
+|---|---|
+| BR01 | Capture unique document ID and subcontractor information. |
+| BR02 | Identify document category. |
+| BR03 | Flag missing information. |
+| BR04 | Track document status and completeness. |
+| BR05 | Route exceptions for human review. |
+| BR06 | Display operational KPIs in Tableau. |
+| BR07 | Support filtering by department and document type. |
+
+## Non-Functional Requirements
+- Protect confidential business information.
+- Maintain human oversight of approval decisions.
+- Ensure dashboard metrics are understandable.
+- Maintain traceability of status changes in a future implementation.
+
+## Out of Scope
+Live ERP integration, automated legal compliance decisions and production deployment.
