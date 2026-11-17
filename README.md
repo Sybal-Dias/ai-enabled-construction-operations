@@ -4,7 +4,7 @@
 
 **Independent Portfolio Project | Business Analysis | AI Enablement | Tableau | Process Improvement**
 
-## 1. Project Overview
+## Project Overview
 
 This project demonstrates how AI-assisted document processing, business process redesign and operational analytics could improve subcontractor document intake and approval tracking in a hypothetical construction organization.
 
@@ -17,7 +17,7 @@ The project focuses on identifying administrative bottlenecks, designing improve
 **Project Folder Structure:**
 <img width="531" height="755" alt="image" src="https://github.com/user-attachments/assets/7e2a84c0-f0f4-4d12-a11d-dabc44f2d7d7" />
 
-## 2. Business Problem
+## Business Problem
 
 Construction organizations may manage subcontractor documentation through emails, spreadsheets and manual follow-ups.
 
@@ -32,7 +32,7 @@ This can result in:
 
 The objective is to propose a more structured and measurable document-management workflow.
 
-## 3. Project Objectives
+## Project Objectives
 
 1. Standardize document intake and tracking.
 2. Identify incomplete submissions.
@@ -42,7 +42,7 @@ The objective is to propose a more structured and measurable document-management
 6. Translate business needs into requirements and acceptance criteria.
 AI is used as an administrative assistant, not as an independent compliance or safety decision-maker.
 
-## 6. Tableau Dashboard
+## Tableau Dashboard
  ![Subcontractor Document Operations Dashboard](dashboard/dashboard_overview.png)
 
 ### Key Performance Indicators
@@ -58,7 +58,7 @@ AI is used as an administrative assistant, not as an independent compliance or s
 
 All results are based on synthetic demonstration data.
 
-## 7. AI Enablement
+## AI Enablement
 
 An AI-assisted document classification prompt was designed to extract:
 - Document type.
@@ -71,7 +71,7 @@ An AI-assisted document classification prompt was designed to extract:
 
 The AI prototype uses a human-in-the-loop approach. All compliance-sensitive decisions remain with authorized personnel.
 
-## 8. Business Analysis Deliverables
+## Business Analysis Deliverables
 
 - Business problem statement.
 - Stakeholder analysis.
@@ -83,7 +83,7 @@ The AI prototype uses a human-in-the-loop approach. All compliance-sensitive dec
 - User acceptance testing scenarios.
 - Change management and training plan.
 
-## 9. Business Value
+## Business Value
 
 The proposed solution aims to improve:
 
@@ -96,7 +96,7 @@ The proposed solution aims to improve:
 
 Actual time savings and operational improvements have not been measured. A real implementation would require a baseline, pilot testing and validated performance data.
 
-## 10. Technology and Skills Demonstrated
+## Technology and Skills Demonstrated
 
 **Business Analysis:** Requirements definition, stakeholder analysis, process improvement, user stories and UAT.
 
@@ -108,7 +108,7 @@ Actual time savings and operational improvements have not been measured. A real 
 
 **Communication:** Technical documentation, user guidance and change management.
 
-## 11. Limitations and Future Development
+## Limitations and Future Development
 
 This is a time-boxed independent portfolio prototype. It does not represent a production implementation.
 
@@ -122,7 +122,7 @@ Future enhancements could include:
 - Audit logging.
 - User adoption and performance measurement.
 
-## 12. Disclaimer
+## Disclaimer
 
 This project is independently developed for educational and professional portfolio purposes.
 
